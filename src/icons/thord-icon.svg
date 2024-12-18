@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="147.64705mm"
+   height="113.31299mm"
+   viewBox="0 0 147.64705 113.31299"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="thord.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs1">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20-1"
+       id="linearGradient24"
+       x1="291.95624"
+       y1="83.79081"
+       x2="431.20645"
+       y2="83.79081"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.92166863,0,0,1.012101,-313.66196,96.97244)" />
+    <linearGradient
+       id="linearGradient20-1">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop20" />
+      <stop
+         style="stop-color:#ffff00;stop-opacity:1;"
+         offset="0.21079692"
+         id="stop28" />
+      <stop
+         style="stop-color:#00ff07;stop-opacity:1;"
+         offset="0.344473"
+         id="stop29" />
+      <stop
+         style="stop-color:#00fff3;stop-opacity:1;"
+         offset="0.45244217"
+         id="stop30" />
+      <stop
+         style="stop-color:#0007ff;stop-opacity:1;"
+         offset="0.58097684"
+         id="stop31" />
+      <stop
+         style="stop-color:#ff08ee;stop-opacity:1;"
+         offset="0.79948586"
+         id="stop32" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="1"
+         id="stop21" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-31.220818,-91.810407)">
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:5.29167;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2"
+       width="20.280577"
+       height="12.808785"
+       x="-84.208305"
+       y="175.90651"
+       transform="rotate(-35.581255)" />
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:5.29167;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3"
+       width="22.41539"
+       height="20.814276"
+       x="-64.461418"
+       y="171.63692"
+       transform="rotate(-35.581255)" />
+    <rect
+       style="fill:url(#linearGradient24);stroke:#000000;stroke-width:5.11084;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect21"
+       width="123.46539"
+       height="15.124414"
+       x="-42.136467"
+       y="174.21501"
+       transform="rotate(-35.581255)" />
+  </g>
+</svg>

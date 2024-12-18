@@ -1,0 +1,25 @@
+/* styles.css */
+.menu-item-container {
+    @apply relative w-full h-full flex justify-center items-center;
+  }
+  
+  .menu-item-button {
+    @apply relative z-10 flex flex-col items-center justify-center bg-white border-8 border-black rounded-2xl p-6 hover:bg-gray-100 transition-colors duration-300;
+  }
+  
+  .disabled {
+    @apply cursor-not-allowed opacity-50;
+  }
+  
+  .menu-item-icon {
+    @apply w-1/2 h-1/2 object-contain;
+  }
+  
+  .menu-item-label {
+    @apply mt-4 text-2xl font-bold text-center;
+  }
+  
+  .menu-item-overlay {
+    @apply absolute inset-0 bg-white bg-opacity-70 flex items-center justify-center text-black font-bold rounded-2xl;
+  }
+  
